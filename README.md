@@ -9,7 +9,7 @@ This repository contains **public releases only** for the Aussie Vault Browser.
 ### 🍺 One-Command Homebrew Installation
 
 ```bash
-brew install --cask bilalmohib/aussievault/aussie-vault-browser
+brew install --cask bilalmohib/aussie-vault-browser-releases/aussie-vault-browser
 ```
 
 ### 📦 Manual Installation
@@ -18,7 +18,7 @@ Download the latest DMG from the [Releases page](https://github.com/bilalmohib/a
 
 ## 🔗 Links
 
-- **Homebrew Tap**: [bilalmohib/homebrew-aussievault](https://github.com/bilalmohib/homebrew-aussievault)
+- **Homebrew Cask**: Located in this repository under `Casks/`
 - **Support**: Create an issue in this repository for installation problems
 
 ## 📄 License
